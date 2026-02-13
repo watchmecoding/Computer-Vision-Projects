@@ -1,1 +1,1 @@
-This is my Computer Vision Projects (Mainly Convolutional Neural Networks)
+This repository contains a collection of Computer Vision projects focusing mainly on Convolutional Neural Networks (CNNs). Each project is documented within a .ipynb (Jupyter Notebook), featuring data preprocessing, model architecture design, training logs, and performance evaluation.
