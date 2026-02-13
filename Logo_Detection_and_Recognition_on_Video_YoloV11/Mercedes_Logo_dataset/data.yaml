@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['mercedes_logo']
+
+roboflow:
+  workspace: r3su
+  project: mercedes_logo_detection
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/r3su/mercedes_logo_detection/dataset/2
